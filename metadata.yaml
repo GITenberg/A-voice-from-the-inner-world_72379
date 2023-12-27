@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '31333'
     url: http://www.gutenberg.org/2009/agents/31333
     wikipedia: https://en.wikipedia.org/wiki/Frank_R._Paul
+covers:
+- cover_type: archival
+  image_path: 72379-h/images/cover.jpg
 creator:
   author:
     agent_name: Verrill, A. Hyatt (Alpheus Hyatt)
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5100
     wikipedia: https://en.wikipedia.org/wiki/Alpheus_Hyatt_Verrill
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72379#A-voice-from-the-inner-world
 gutenberg_issued: '2023-12-11'
 gutenberg_type: Text
 identifiers:
